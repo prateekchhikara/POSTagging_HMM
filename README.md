@@ -18,6 +18,10 @@ Each line in the train and dev files contains three items separated by a tab (\t
 
 The test file contains only the first two items (index and word type) as it is used for prediction. Each sentence is followed by a blank line.
 
+## Example
+![alt text](img/fig1.png)
+![alt text](img/fig2.png)
+
 
 ## Tasks
 
