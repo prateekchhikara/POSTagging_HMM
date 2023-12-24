@@ -19,8 +19,7 @@ Each line in the train and dev files contains three items separated by a tab (\t
 The test file contains only the first two items (index and word type) as it is used for prediction. Each sentence is followed by a blank line.
 
 ## Example
-<img src="fimg/fig1.png" alt="" width="500"/>
-<img src="fimg/fig2.png" alt="" width="500"/>
+![HMM](img/fig1.png){: width="400px"}
 
 
 ## Tasks
